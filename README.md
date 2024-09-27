@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-#### Software Engineer | React | Node | JavaScript
+#### Software Engineer | React | Node | JavaScript | HTML5 | CSS3
 <i>(São Luis, MA - Brasil)</i>
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/ramosarthur03)
