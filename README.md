@@ -17,6 +17,8 @@ Estudante de programação com foco em desenvolvimento Backend em Python, estuda
   </a>
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img width="12" />
