@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋! My name is Arthur</h1>
+<h1 align="center">Hi 👋! My name is Arthur Ramos</h1>
 
 <p align="center">
-  Backend Developer focused on Python
+  Junior Backend Developer | Python | FastAPI | Flask | SQL | REST APIs
+
 </p>
 
 <div align="center">
