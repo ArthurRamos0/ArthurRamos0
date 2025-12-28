@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Arthur</h2>
+<h1 align="center">Hi 👋! My name is Arthur</h1>
 
 ###
 
@@ -8,17 +8,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurRamos0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ArthurRamos0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurRamos0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ArthurRamos0/ArthurRamos0/output/snake.svg" alt="Snake animation" />
+<p align="center">Estudante de programação com foco em desenvolvimento Backend em Python, estudando há 2 anos e aprofundando conhecimentos em APIs, automação, bancos de dados e boas práticas de código. Tenho experiência em projetos pessoais e acadêmicos utilizando Python, Flask/FastAPI, SQL e versionamento com Git. Busco minha primeira oportunidade como Desenvolvedor Backend Júnior, onde possa aplicar minhas habilidades, aprender com profissionais experientes econtribuir para soluções eficientes e escaláveis.</p>
 
 ###
 
@@ -59,8 +49,14 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ArthurRamos0/ArthurRamos0/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
 </div>
 
 ###
